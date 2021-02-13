@@ -1,0 +1,38 @@
+#Test Specficiation for G2
+
+
+Electronic Operation:
+    Requests:
+        requested.
+        not requested.
+    Passcode:
+        correct.
+        incorrect
+
+
+Night Mode:
+    Mode:
+        on.
+        off.
+    Interval:
+        inside.
+        outside.
+
+
+Intruder Defense:
+    detected.
+    not detected.
+
+
+Hands Free Entry:
+    within proximity.
+    outside proximity.
+
+
+
+
+
+
+
+
+
